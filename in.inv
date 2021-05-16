@@ -1,0 +1,2 @@
+[all]
+target2 localhost ansible_connection=local ansible-user=ubuntu
